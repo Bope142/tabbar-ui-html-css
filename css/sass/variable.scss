@@ -1,0 +1,19 @@
+/*Export fonts */
+@font-face {
+  font-family: "Bangers";
+  src: url("../fonts/Bangers-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: url("../fonts/Outfit-Medium.ttf");
+}
+
+/*fonts varialble*/
+$fontBangers: "Bangers", sans-serif;
+
+$fontOutfit: "Outfit", sans-serif;
+
+/*color variables*/
+$neutral1: #d81f26;
+$neutral2: #2f3d4c;
